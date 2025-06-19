@@ -1,0 +1,6 @@
+logging:
+  level:
+    root: INFO
+​
+greeting:
+  message: "Hello from shared default config"
